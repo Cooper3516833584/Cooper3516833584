@@ -2,12 +2,12 @@
 
 <a href="https://github.com/Cooper3516833584">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Cooper+%F0%9F%91%8B;Electrical+Engineering+%40+HUST+%E2%9A%A1;Robotics+%C2%B7+Autonomous+Systems+%C2%B7+Embedded+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Cooper+%F0%9F%91%8B;EEE+%40+HUST+%E2%9A%A1;Robotics+%C2%B7+Autonomous+Systems+%C2%B7+Embedded+AI"
     alt="Hi there, I'm Cooper"
   />
 </a>
 
-**Electrical Engineering @ HUST**
+**School of Electrical and Electronic Engineering @ HUST**
 
 Robotics · Autonomous Systems · Embedded / Edge AI · Multimodal Vision
 
@@ -21,7 +21,10 @@ Robotics · Autonomous Systems · Embedded / Edge AI · Multimodal Vision
 class Cooper:
     def __init__(self):
         self.name = "Cooper"
-        self.education = "Electrical Engineering @ HUST"
+        self.education = (
+            "School of Electrical and Electronic Engineering "
+            "@ Huazhong University of Science and Technology"
+        )
 
         self.focus = [
             "Robotics & Autonomous Systems",
@@ -40,7 +43,7 @@ class Cooper:
         self.philosophy = "Build systems that sense, decide, and act."
 ```
 
-- ⚡ **Background:** Electrical Engineering at Huazhong University of Science and Technology
+- ⚡ **Background:** School of Electrical and Electronic Engineering, Huazhong University of Science and Technology
 - 🤖 **Building:** autonomous ground robots, UAV systems, embedded perception and control
 - 🧠 **Exploring:** multimodal models, remote sensing, vision agents and edge AI
 - 🔧 **I enjoy:** taking a system all the way from sensors and hardware to perception, planning, control and UI
@@ -50,10 +53,10 @@ class Cooper:
 ### 🔭 Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics-2F81F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Autonomous%20Systems-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded%20AI-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-2F81F7?style=for-the-badge" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Autonomous%20Systems-6A5ACD?style=for-the-badge" alt="Autonomous Systems" />
+  <img src="https://img.shields.io/badge/Embedded%20AI-2E8B57?style=for-the-badge" alt="Embedded AI" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision" />
 </p>
 
 - **Robotics:** autonomous ground vehicles, UAVs, localization, navigation and sensor fusion
@@ -73,12 +76,11 @@ class Cooper:
 
 Contributor to a HUST **“揭榜挂帅”** project exploring multimodal remote-sensing agents for space intelligent computing.
 
-Contributed to the change-understanding and detection pipeline, including multi-expert evidence fusion, VRSBench / YOLO11m detector integration and evaluation stability.
+Worked on the change-understanding and detection pipeline, including multi-expert evidence fusion, VRSBench / YOLO11m detector integration and evaluation stability.
 
 `Python` · `Qwen3.5` · `LoRA` · `YOLO11m` · `Remote Sensing`
 
 </td>
-
 <td width="50%" valign="top">
 
 **🤖 [RoboCup Ground Robot](https://github.com/Cooper3516833584/car_for_robocup)**
@@ -100,7 +102,6 @@ Ground-station software for air-ground collaborative mapping and rescue, featuri
 `Python` · `PyQt5` · `Raspberry Pi` · `FleetBus`
 
 </td>
-
 <td width="50%" valign="top">
 
 **🚁 [Cooper Drone](https://github.com/Cooper3516833584/Cooper_drone)**
@@ -127,7 +128,7 @@ Companion-computer framework running on an STM32MP257 Linux board and controllin
 **Embedded / Robotics**
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-2F6FAD?style=for-the-badge)
 ![MAVLink](https://img.shields.io/badge/MAVLink-1E90FF?style=for-the-badge)
@@ -138,7 +139,7 @@ Companion-computer framework running on an STM32MP257 Linux board and controllin
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=for-the-badge)
 ![LoRA](https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge)
 
@@ -153,6 +154,6 @@ Companion-computer framework running on an STM32MP257 Linux board and controllin
 
 <div align="center">
 
-*"Build systems that sense, decide, and act."*
+*“Build systems that sense, decide, and act.”*
 
 </div>
