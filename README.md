@@ -81,13 +81,14 @@ Worked on the change-understanding and detection pipeline, including multi-exper
 `Python` · `Qwen3.5` · `LoRA` · `YOLO11m` · `Remote Sensing`
 
 </td>
+
 <td width="50%" valign="top">
 
-**🤖 [RoboCup Ground Robot](https://github.com/Cooper3516833584/car_for_robocup)**
+**🤖 [Cooper Bot](https://github.com/Cooper3516833584/Cooper_bot)**
 
-Production-oriented differential-drive robot stack with C10B motor control, D500 LiDAR localization, optional RealSense T265 odometry, sensor fusion, replay tooling and hardware safety gates.
+An AI-enhanced QQ chatbot built around OneBot with asynchronous multi-session handling, LLM and vision capabilities, file services, permission management, assignment workflows, calendar scheduling and email notifications.
 
-`Python` · `LiDAR` · `Sensor Fusion` · `Motion Control`
+`Python` · `OneBot` · `AsyncIO` · `LLM` · `Vision / OCR`
 
 </td>
 </tr>
@@ -102,13 +103,14 @@ Ground-station software for air-ground collaborative mapping and rescue, featuri
 `Python` · `PyQt5` · `Raspberry Pi` · `FleetBus`
 
 </td>
+
 <td width="50%" valign="top">
 
-**🚁 [Cooper Drone](https://github.com/Cooper3516833584/Cooper_drone)**
+**🤖 [RoboCup Ground Robot](https://github.com/Cooper3516833584/car_for_robocup)**
 
-Companion-computer framework running on an STM32MP257 Linux board and controlling an ArduPilot Copter through MAVLink, with vision-follow missions and a staged dry-run → SITL → hardware deployment workflow.
+Production-oriented differential-drive robot stack with C10B motor control, D500 LiDAR localization, optional RealSense T265 odometry, sensor fusion, replay tooling and hardware safety gates.
 
-`STM32MP257` · `ArduPilot` · `MAVLink` · `Python`
+`Python` · `LiDAR` · `Sensor Fusion` · `Motion Control`
 
 </td>
 </tr>
