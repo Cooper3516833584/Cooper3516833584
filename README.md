@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Cooper3516833584">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Cooper+%F0%9F%91%8B;EEE+%40+HUST+%E2%9A%A1;Robotics+%C2%B7+Autonomous+Systems+%C2%B7+Embedded+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Cooper+%F0%9F%91%8B;EEE+%40+HUST;Robotics+%C2%B7+Autonomous+Systems+%C2%B7+Embedded+AI"
     alt="Hi there, I'm Cooper"
   />
 </a>
@@ -125,7 +125,6 @@ Production-oriented differential-drive robot stack with C10B motor control, D500
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Embedded / Robotics**
 
